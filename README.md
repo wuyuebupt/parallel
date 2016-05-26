@@ -1,1 +1,1 @@
-# parallel
+# parallelA simple parallel scirpts written in Python. Very usefull for me.
